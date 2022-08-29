@@ -1,6 +1,9 @@
-<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Flex 布局-王晓伟</title>
     <style>  
       body {
@@ -52,7 +55,12 @@
     <div style="width:200px;z-index:2" class="baiSe yinYing">
       <!--头像栏-->
       <div style="padding:10px;align-items:center;justify-content:center;border-bottom:1px solid #999" class="flex">
-        <img src="./Flex 布局-王晓伟_files/0106fe5a2e46bea80120ba38ca68a3.jpg@1280w_1l_2o_100sh.jpg" width="40" height="40" alt="">
+        <img
+        src="https://img.zcool.cn/community/0106fe5a2e46bea80120ba38ca68a3.jpg@1280w_1l_2o_100sh.jpg"
+        width="40"
+        height="40"
+        alt=""
+        />
         <div style="margin-left:10px;">王晓伟</div>
     </div>
     <!--导航栏-->
@@ -102,6 +110,5 @@
           </div>
       </div>
       </div>
-  
-
-</body></html>
+  </body>
+</html>
